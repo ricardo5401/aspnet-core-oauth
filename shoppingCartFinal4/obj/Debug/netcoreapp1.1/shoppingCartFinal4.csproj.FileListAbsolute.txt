@@ -1,0 +1,10 @@
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\bin\Debug\netcoreapp1.1\shoppingCartFinal4.deps.json
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\bin\Debug\netcoreapp1.1\shoppingCartFinal4.runtimeconfig.json
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\bin\Debug\netcoreapp1.1\shoppingCartFinal4.runtimeconfig.dev.json
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\bin\Debug\netcoreapp1.1\shoppingCartFinal4.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\obj\Debug\netcoreapp1.1\shoppingCartFinal4.AssemblyInfo.cs
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\bin\Debug\netcoreapp1.1\shoppingCartFinal4.pdb
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\obj\Debug\netcoreapp1.1\shoppingCartFinal4.dll
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\obj\Debug\netcoreapp1.1\shoppingCartFinal4.pdb
+c:\users\jonathan\documents\visual studio 2017\Projects\shoppingCartFinal4\shoppingCartFinal4\obj\Debug\netcoreapp1.1\shoppingCartFinal4.csprojResolveAssemblyReference.cache
